@@ -24,7 +24,7 @@ MIT Lincence
 
 ## Site URL
 https://novusm.github.io/module-1-challenge/
-
+Code Location: https://github.com/novusm/module-1-challenge Named index.html
 ![Horiseon - First Webpage Edit](https://github.com/novusm/module-1-challenge/assets/126507510/d0bf3798-866c-4b32-ae11-49b636613b3a)
 
 
